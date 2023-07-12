@@ -1,0 +1,20 @@
+* {
+    margin:0 ; 
+    padding: 0
+}
+
+body {
+    border: 1px solid black;
+    height: 36vh;
+    width: 36vw;
+    position: fixed;
+    top: 15rem;
+    left: 28rem;
+}
+
+
+canvas {
+    border: 1px solid red;
+    height: 36vh;
+    width: 36vw;
+}
